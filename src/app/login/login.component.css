@@ -1,0 +1,130 @@
+/* styles.css */
+
+.loginform {
+  width: 100%;
+  height: 720px;
+  position: relative;
+  background: white;
+}
+
+.login-container {
+  width: 818px;
+  height: 426px;
+  left: 231px;
+  top: 162px;
+  position: absolute;
+  background: #739072;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 24px;
+}
+
+.login-img {
+  width: 90px;
+  height: 90px;
+  
+ 
+}
+
+.form-input {
+  width: 332px;
+  height: 38px;
+  border-radius: 15px;
+  border: none;
+  position: absolute;
+}
+#imagelogo{
+  left: 150px;
+  top: 0px;
+  width: 150px;
+  height: 150px;
+  position: relative;
+}
+#imagelogo1{
+  left: 0px;
+  top: 150px;
+  position: relative;
+}
+#imagelogo2{
+  left: 0px;
+  top: 0px;
+  position: relative;
+}
+#emailInput {
+  left: 297px;
+  top: 302px;
+
+}
+
+#passwordInput {
+  left: 297px;
+  top: 373px;
+}
+
+.login-button {
+  width: 332px;
+  height: 38px;
+  left: 297px;
+  top: 431px;
+  position: absolute;
+  background: #EDA924;
+  border-radius: 15px;
+  border: none;
+}
+
+.forgot-password-link,
+.create-account-link,
+.dont-have-account {
+  position: absolute;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  word-wrap: break-word;
+  color: black;
+}
+
+#forgotPasswordLink {
+  left: 388px;
+  top: 489px;
+}
+
+#createAccountLink {
+  left: 491px;
+  top: 532px;
+}
+
+#dontHaveAccount {
+  left: 297px;
+  top: 532px;
+  color: white;
+}
+
+.image-container {
+  width: 401px;
+  height: 426px;
+  left: 648px;
+  top: 162px;
+  position: absolute;
+  background: #F6F0F0;
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+}
+
+.rotated-image {
+  width: 426px;
+  height: 401px;
+  left: 1049px;
+  top: 162px;
+  position: absolute;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+}
+
+.logo-image {
+  width: 194px;
+  height: 160px;
+  left: 340px;
+  top: 162px;
+  position: absolute;
+}

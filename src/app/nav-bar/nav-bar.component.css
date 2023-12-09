@@ -1,0 +1,17 @@
+#imagelogo{
+  
+    width: 90px;
+    height: 90px;
+    position: relative;
+  }
+  #NV-bg{
+    height: 60px;
+  background-color: #739072;
+  
+  }
+  #imagUser{
+  
+    width: 16px;
+    height: 16px;
+    position: relative;
+  }
